@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/buttanA/static/css/main.073c9b0a.css",
+    "main.js": "/buttanA/static/js/main.79a5295d.js",
+    "static/js/787.28cb0dcd.chunk.js": "/buttanA/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/buttanA/index.html",
+    "main.073c9b0a.css.map": "/buttanA/static/css/main.073c9b0a.css.map",
+    "main.79a5295d.js.map": "/buttanA/static/js/main.79a5295d.js.map",
+    "787.28cb0dcd.chunk.js.map": "/buttanA/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.79a5295d.js"
+  ]
+}
