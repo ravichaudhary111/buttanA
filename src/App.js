@@ -3,7 +3,7 @@ import './App.css';
 function App() {
 
   function clickA(){
-   alert("Hellommxmxccm");
+//    alert("Hellommxmxccm");
   }
   return (
     
