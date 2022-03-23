@@ -8,7 +8,7 @@ function App() {
   return (
     
     <div className="App">
-      <button type= "Submit" id="button-a" onClick={clickA}>Buttton</button>
+      <button type= "Submit" id="button-a" onSubmit={clickA}>Buttton</button>
     </div>
   );
 }
